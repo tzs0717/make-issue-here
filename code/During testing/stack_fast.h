@@ -77,5 +77,4 @@ namespace new_stl{
 		}
 	};
 }
-using new_stl::stack_fast;
 #endif
